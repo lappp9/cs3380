@@ -13,7 +13,9 @@ header{
 	padding-left: 270px;
 	height: 100%;
 }
+iframe{
 
+}
 #logo{
 	border: 0px solid black;
 	float: right;

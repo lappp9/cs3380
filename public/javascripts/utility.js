@@ -14,6 +14,7 @@
    			});
 		});
 		
-		
+		$( "#accordion" ).accordion();
+
 	});
 })(jQuery);
