@@ -1,4 +1,11 @@
 Cs3380::Application.routes.draw do
+  
+  root :to => 'static#home'
+  match '/resources', :to => 'static#resources'
+  match '/labs', :to => 'static#labs'
+  match '/homeworks', :to => 'static#homeworks'
+  match '/quizzes', :to => 'static#quizzes'
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
