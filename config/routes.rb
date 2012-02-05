@@ -5,7 +5,7 @@ Cs3380::Application.routes.draw do
   match '/labs', :to => 'static#labs'
   match '/homeworks', :to => 'static#homeworks'
   match '/quizzes', :to => 'static#quizzes'
-  
+  match '/lab3', :to => 'static#lab3'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
