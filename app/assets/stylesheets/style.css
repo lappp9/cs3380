@@ -1,0 +1,38 @@
+header{
+	border: 0px solid black;
+	border-bottom: 5px solid black;
+	min-height: 40px;
+	padding: 10px;
+	font-size: 3em;
+	vertical-align: center;
+	padding-top: 40px;
+	padding-left: 40px;
+	margin:0;
+	color: white;
+	background-color: #0E4A89;
+	padding-left: 270px;
+	height: 100%;
+}
+iframe{
+
+}
+#logo{
+	border: 0px solid black;
+	float: right;
+
+}
+
+body{
+	margin:0;
+	padding:0;
+	height: 100%;
+}
+
+
+#content{
+	margin-left: 162px;
+	margin-right: 162px;
+	min-height: 100;
+	vertical-align: bottom;
+	margin-top: 80px;
+}
